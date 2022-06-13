@@ -6,18 +6,19 @@ Aqui encontraras un listado de diferentes documentaciones, recursos y software p
 - [Cloud](#cloud)
 - [Data Analysis](#data-analysis)
 
+---
+
+
 ## Desarrollo Web
 * JavaScript
 * TypeScript
 * Python
-
 ## Base de Datos
 * Microsoft SQL Server
 * MariaDB
 * MongoDB
 * MySQL
 * PostgreSQL
-
 ## Cloud
 * Amazon Web Services (AWS)
 * Microsoft Azure
