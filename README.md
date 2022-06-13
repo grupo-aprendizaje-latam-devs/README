@@ -1,10 +1,15 @@
 # README
 
 Aqui encontraras un listado de diferentes documentaciones, recursos y software para ayudarte en tú aprendizaje.
+
+## Documentaciones, librerias y recursos
+
 - [Desarrollo Web](#desarrollo-web)
 - [Base de Datos](#base-de-datos)
 - [Cloud](#cloud)
 - [Data Analysis](#data-analysis)
+
+## Libros, videos y cursos 
 
 ---
 
@@ -29,3 +34,5 @@ Aqui encontraras un listado de diferentes documentaciones, recursos y software p
 * Microsoft PowerBi
 * Tableu
 * R
+
+---
