@@ -8,7 +8,6 @@ Aqui encontraras un listado de diferentes documentaciones, recursos y software p
 
 ---
 
-
 ## Desarrollo Web
 * JavaScript
 * TypeScript
